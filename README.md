@@ -1,4 +1,6 @@
 # YTG1 : Youtube Thumbnail Generator Version 1
+License : https://github.com/NFaurass/YTG1/blob/master/LICENSE
+<br/>
 Facebook : https://Www.facebook.com/nidal.faurass.3
 <br/>
 Google Plus : https://plus.google.com/116998097979138711729
